@@ -3,6 +3,7 @@
 This repository contains the environments for the paper [Emergent Complexity via Multi-agent Competition](https://arxiv.org/abs/1710.03748)
 
 ## Dependencies
+Use `pip install -r requirements.txt` to install dependencies. If you haven't used MuJoCo before, please refer to the [installation guide](https://github.com/openai/mujoco-py).
 The code has been tested with the following dependencies:
 * Python version 3.6
 * [OpenAI GYM](https://github.com/openai/gym) version 0.9.1 with MuJoCo 1.31 support (use [mujoco-py version 0.5.7](https://github.com/openai/mujoco-py/tree/0.5))
