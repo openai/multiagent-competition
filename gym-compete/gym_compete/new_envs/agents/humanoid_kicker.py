@@ -1,3 +1,4 @@
+import os
 from .humanoid import Humanoid
 from gym.spaces import Box
 import numpy as np
